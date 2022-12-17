@@ -4,4 +4,9 @@ Jenkins is an open-source automation tool with built-in plugins for continuous i
 
 Integrating Jenkins and git is very important if your project is on Git and you want to build it on JenkinsPrerequisites for the Integration process are the Jenkins and Git softwares, that can be easily downloaded from their official website: Git and Jenkins.
 
-After installing these two in your system. You have to set the Environment Variable for these two also. For that go to control panel->System and Security->System->Advance Sys.
+After installing these two in your system. You have to set the Environment Variable for these two also. For that go to control panel->System and Security->System->Advance Sy
+l that is used for automation, and it is an open-source server that allows all the developers to build, test and deploy software. It works or runs on java as it is written in java. By using Jenkins we can make a continuous integration of projects(jobs) or end-to-endpoint automation.
+
+Let us do discuss the necessity of this tool before going ahead to the procedural part for installation. Nowadays, humans are becoming lazy day by day so even having digital screens and just one click button in front of us then also need some automation. Here, I’m referring to that part of automation where we need not have to look upon a process(here called a job) for completion and after it doing anots
+
+Let us do discuss the necessity of this tool before going ahead to the procedural part for installation. Nowadays, humans are becoming lazy day by day so even having digital screens and just one click button in front of us then also need some automation. Here, I’m referring to that part of automation where we need not have to look upon a process(here called a job) for completion and after it doing another job. F.
