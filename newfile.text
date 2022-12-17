@@ -1,0 +1,7 @@
+r continuous integration purposes. It is used to build compile and test your project which makes developers work easy to make changes in the project.
+
+Integrating Jenkins and git is very important if your project is on Git and you want to build it on Jenkins.
+
+Downloading Jenkins and Gitenkins is an open-source automation tool with built-in plugins for continuous integration purposes. It is used to build compile and test your project which makes developers work easy to make changes in the project.
+
+Integrating Jenkins and git is very important if your project is on Git and you want to build it on Jenkins.:
